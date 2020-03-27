@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Synthetic",
+	"Description": "Synthetic data generations tools",
+	"Category": "Simbotic",
+	"CreatedBy": "Alex Rozgo",
+	"CreatedByURL": "http://rozgo.github.io/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Synthetic",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
